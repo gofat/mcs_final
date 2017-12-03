@@ -1,0 +1,6 @@
+2017-12-03 10:41:34,832 - __main__ - INFO - Im alive!
+2017-12-03 10:41:49,303 - __main__ - INFO - get_sentiment recieved message: /sentiment test_test
+2017-12-03 10:41:49,304 - __main__ - ERROR - 'Bot' object has no attribute 'text'
+2017-12-03 13:25:35,663 - __main__ - INFO - Started chat # 74141678
+2017-12-03 13:27:08,034 - __main__ - INFO - Predicted sentiment 0.8989554047584534 for tweet We will rise again
+2017-12-03 13:27:24,596 - __main__ - INFO - Predicted sentiment 0.009651520289480686 for tweet I am so sick
